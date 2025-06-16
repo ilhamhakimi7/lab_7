@@ -19,6 +19,7 @@ $result = $conn->query($sql);
 <html>
 <head>
     <title>View Users</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Registered Users</h2>

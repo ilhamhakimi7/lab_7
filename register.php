@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>User Registration</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Register User</h2>
